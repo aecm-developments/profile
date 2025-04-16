@@ -7,7 +7,7 @@
 
 #### Other Skills: Sales, Customer Service, Money Handling, Training and Teaching
 
-- h2>Education</h2>
+## Education
 <table style="width:100%; border-collapse: collapse; margin-bottom: 2em;">
   <tr>
     <td style="padding: 4px 16px;">&raquo; <strong>MS Biology</strong></td>
