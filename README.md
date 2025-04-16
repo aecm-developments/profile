@@ -1,3 +1,4 @@
+
 # Research Scientist
 
 #### Laboratory Skills: Cell culture, human and mouse sample collection and handling, RNA and DNA extraction, EV isolation, RNA library preperation, Bulk Sequencing, Western Blotting, ELISA, Chemical Inventory
@@ -7,8 +8,8 @@
 #### Other Skills: Sales, Customer Service, Money Handling, Training and Teaching
 
 ## Education
-- MS Biology                               Chatham University          Pittsburgh PA      Aug 2023 		       		
-- BS Biology: Molecular Biotechnology    Mount Aloysius College         Cresson PA       June 2021 	        		
+- MS Biology | Chatham University | Pittsburgh PA | Aug 2023 		       		
+- BS Biology: Molecular Biotechnology | Mount Aloysius College | Cresson PA | June 2021 	        		
 
 ## Work Experience
 **Research Laboratory Technician      University of Pittsburgh             (_June 2023 - Present_)**
