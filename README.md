@@ -84,7 +84,7 @@ Detection of Borrelia burgdorferi DNA from deer ticks to determine Lyme's diseas
 
 ### Class Project- Biology III                               Fall 2018
 Effects of alcohol-based mouthwash on the mouth microbiome
-- Plated saliva samples from participants to study effects of alcohol-based mouthwash, non-alcohol-baseed mouthwash or no mouthwash
+- Plated saliva samples from participants to study effects of alcohol-based mouthwash, non-alcohol-based mouthwash or no mouthwash
 - A poster presentation was given on results
 
 ### Class Project- Chemistry II                             Spring 2019
@@ -93,6 +93,16 @@ Effects of refridgeration and preservative content on bread mold prevalance
 - A poster presentation was given on results
 
 ## Recognitions
-Outstanding Student Achievement Award       Chatham University          April 2022
 
-Admiral Peary Research Award                Mount Aloysius College       May 2021
+<table style="margin: 0 auto; border-collapse: collapse; margin-bottom: 2em; width:80%;">
+  <tr>
+    <td style="padding: 4px 16px;"> <strong>Outstanding Student Achievement Award</strong></td>
+    <td style="padding: 4px 16px;">Chatham University</td>
+    <td style="padding: 4px 16px; white-space: nowrap;">April 2022</td>
+  </tr>
+  <tr>
+    <td style="padding: 4px 16px;"> <strong>Admiral Peary Research Award</strong></td>
+    <td style="padding: 4px 16px;">Mount Aloysius College</td>
+    <td style="padding: 4px 16px; white-space: nowrap;">May 2021</td>
+  </tr>
+</table>
