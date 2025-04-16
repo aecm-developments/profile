@@ -82,4 +82,4 @@ Effects of refridgeration and preservative content on bread mold prevalance
 ## Recognitions
 Outstanding Student Achievement Award       Chatham University          April 2022
 
-Admiral Peary Reserach Award                Mount Aloysius College       May 2021
+Admiral Peary Research Award                Mount Aloysius College       May 2021
