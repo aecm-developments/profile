@@ -1,24 +1,26 @@
 
 # Research Scientist
 
+
 #### Laboratory Skills: Cell culture, human and mouse sample collection and handling, RNA and DNA extraction, EV isolation, RNA library preperation, Bulk Sequencing, Western Blotting, ELISA, Chemical Inventory
 
 #### Computer Skills: R, Python, HTML, CSS, GraphPad Prism, ImageJ, Microsoft Office, LibreOffice (Linux, Windows, Mac)
 
 #### Other Skills: Sales, Customer Service, Money Handling, Training and Teaching
 
+
 ## Education
-<table style="margin: 0 auto; border-collapse: collapse; margin-bottom: 2em; width:80%;">
+<table style="margin: 0 auto; border-collapse: collapse; margin-bottom: 2em; width:100%;">
   <tr>
-    <td style="padding: 4px 16px;"> <strong>MS Biology</strong></td>
-    <td style="padding: 4px 16px;">Chatham University</td>
-    <td style="padding: 4px 16px;">Pittsburgh, PA</td>
-    <td style="padding: 4px 16px; white-space: nowrap;">Aug 2023</td>
+    <td style="padding: 4px 16px;"><strong>MS Biology</strong></td>
+    <td style="padding: 4px 16px;white-space:nowrap;">Chatham University</td>
+    <td style="padding: 4px 16px;white-space:nowrap;">Pittsburgh, PA</td>
+    <td style="padding: 4px 16px; white-space:nowrap;">Aug 2023</td>
   </tr>
   <tr>
     <td style="padding: 4px 16px;"> <strong>BS Biology: Molecular Biotechnology</strong></td>
-    <td style="padding: 4px 16px;">Mount Aloysius College</td>
-    <td style="padding: 4px 16px;">Cresson, PA</td>
+    <td style="padding: 4px 16px;white-space:nowrap;">Mount Aloysius College</td>
+    <td style="padding: 4px 16px;white-space:nowrap;">Cresson, PA</td>
     <td style="padding: 4px 16px; white-space: nowrap;">June 2021</td>
   </tr>
 </table>
