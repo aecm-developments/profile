@@ -7,9 +7,21 @@
 
 #### Other Skills: Sales, Customer Service, Money Handling, Training and Teaching
 
-## Education
-- MS Biology | Chatham University | Pittsburgh PA | Aug 2023 		       		
-- BS Biology: Molecular Biotechnology | Mount Aloysius College | Cresson PA | June 2021 	        		
+- <h2>Education</h2>
+<table style="width:100%; border-collapse: collapse;">
+  <tr>
+    <td style="padding: 6px 12px;">&raquo; MS Biology</td>
+    <td style="padding: 6px 12px;">Chatham University</td>
+    <td style="padding: 6px 12px;">Pittsburgh, PA</td>
+    <td style="padding: 6px 12px;">Aug 2023</td>
+  </tr>
+  <tr>
+    <td style="padding: 6px 12px;">&raquo; BS Biology: Molecular Biotechnology</td>
+    <td style="padding: 6px 12px;">Mount Aloysius College</td>
+    <td style="padding: 6px 12px;">Cresson, PA</td>
+    <td style="padding: 6px 12px;">June 2021</td>
+  </tr>
+</table> 		
 
 ## Work Experience
 **Research Laboratory Technician      University of Pittsburgh             (_June 2023 - Present_)**
