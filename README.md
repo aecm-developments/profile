@@ -8,7 +8,7 @@
 #### Other Skills: Sales, Customer Service, Money Handling, Training and Teaching
 
 ## Education
-<table style="width:100%; border-collapse: collapse; margin-bottom: 2em;">
+<table style="margin: 0 auto; border-collapse: collapse; margin-bottom: 2em; width:80%;">
   <tr>
     <td style="padding: 4px 16px;">&raquo; <strong>MS Biology</strong></td>
     <td style="padding: 4px 16px;">Chatham University</td>
