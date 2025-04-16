@@ -14,7 +14,7 @@
 **Research Laboratory Technician University of Pittsburgh (_June 2023 - Present_)**
 - RNA isolation from various human and mouse tissues, EV isolation from various tissue types, ncRNA and mRNA library generation, sequencing on Illumina platforms
 - Data analysis in R and terminal (Linux, Windows and Mac)
-- Image generation with GraphPad Prism, literture search, and manuscript preparation
+- Image generation with GraphPad Prism, literature search, and manuscript preparation
 - Genotyping of mice, Western blotting, PCR, and animal husbandry
 - Protocol development, optimization and execution
 - Reagent preparation, inventory, and purchasing
