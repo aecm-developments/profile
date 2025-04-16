@@ -26,7 +26,7 @@
 </table>
 
 ## Work Experience
-**Research Laboratory Technician      University of Pittsburgh             (_June 2023 - Present_)**
+**Research Laboratory Technician      | University of Pittsburgh                           |  (_June 2023 - Present_)**
 - RNA isolation from various human and mouse tissues, EV isolation from various tissue types, ncRNA and mRNA library preparation, sequencing on Illumina platforms
 - Data analysis in R and terminal (Linux, Windows and Mac)
 - Image generation with GraphPad Prism, literature search, and manuscript preparation
