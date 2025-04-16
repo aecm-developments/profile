@@ -4,6 +4,7 @@
   }
   h1,h2{
     border-bottom:1px solid white;
+    padding-bottom:.3em;
   }
 </style>
 # Research Scientist
