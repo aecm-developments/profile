@@ -7,21 +7,21 @@
 
 #### Other Skills: Sales, Customer Service, Money Handling, Training and Teaching
 
-- <h2>Education</h2>
-<table style="width:100%; border-collapse: collapse;">
+- h2>Education</h2>
+<table style="width:100%; border-collapse: collapse; margin-bottom: 2em;">
   <tr>
-    <td style="padding: 6px 12px;">&raquo; MS Biology</td>
-    <td style="padding: 6px 12px;">Chatham University</td>
-    <td style="padding: 6px 12px;">Pittsburgh, PA</td>
-    <td style="padding: 6px 12px;">Aug 2023</td>
+    <td style="padding: 4px 16px;">&raquo; <strong>MS Biology</strong></td>
+    <td style="padding: 4px 16px;">Chatham University</td>
+    <td style="padding: 4px 16px;">Pittsburgh, PA</td>
+    <td style="padding: 4px 16px; white-space: nowrap;">Aug 2023</td>
   </tr>
   <tr>
-    <td style="padding: 6px 12px;">&raquo; BS Biology: Molecular Biotechnology</td>
-    <td style="padding: 6px 12px;">Mount Aloysius College</td>
-    <td style="padding: 6px 12px;">Cresson, PA</td>
-    <td style="padding: 6px 12px;">June 2021</td>
+    <td style="padding: 4px 16px;">&raquo; <strong>BS Biology: Molecular Biotechnology</strong></td>
+    <td style="padding: 4px 16px;">Mount Aloysius College</td>
+    <td style="padding: 4px 16px;">Cresson, PA</td>
+    <td style="padding: 4px 16px; white-space: nowrap;">June 2021</td>
   </tr>
-</table> 		
+</table>
 
 ## Work Experience
 **Research Laboratory Technician      University of Pittsburgh             (_June 2023 - Present_)**
