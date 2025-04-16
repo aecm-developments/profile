@@ -2,7 +2,7 @@
 # Research Scientist
 
 
-#### Laboratory Skills: Cell culture, human and mouse sample collection and handling, RNA and DNA extraction, EV isolation, RNA library preperation, Bulk Sequencing, Western Blotting, ELISA, Chemical Inventory
+#### Laboratory Skills: Cell culture, human and mouse sample collection and handling, RNA and DNA extraction, EV isolation, RNA library preparation, Bulk Sequencing, Western Blotting, ELISA, Chemical Inventory
 
 #### Computer Skills: R, Python, HTML, CSS, GraphPad Prism, ImageJ, Microsoft Office, LibreOffice (Linux, Windows, Mac)
 
@@ -27,7 +27,7 @@
 
 ## Work Experience
 **Research Laboratory Technician      University of Pittsburgh             (_June 2023 - Present_)**
-- RNA isolation from various human and mouse tissues, EV isolation from various tissue types, ncRNA and mRNA library generation, sequencing on Illumina platforms
+- RNA isolation from various human and mouse tissues, EV isolation from various tissue types, ncRNA and mRNA library preparation, sequencing on Illumina platforms
 - Data analysis in R and terminal (Linux, Windows and Mac)
 - Image generation with GraphPad Prism, literature search, and manuscript preparation
 - Genotyping of mice, Western blotting, PCR, and animal husbandry
@@ -78,7 +78,7 @@ Detection of <i>Clostridium botulinum</i> from home-canned food
 ### Independent Research                                     Fall 2020
 Bacteriophage isolation from soil and water samples
 - Top agar plating technique with <i>S. aureus</i>  innoculation
-- A poster presentaion was given during Research Day
+- A poster presentation was given during Research Day
 
 ### Class Project- Advanced Laboratory Techniques            Fall 2020
 Detection of <i>Borrelia burgdorferi</i> DNA from deer ticks to determine Lyme's disease risk
@@ -90,7 +90,7 @@ Effects of alcohol-based mouthwash on the mouth microbiome
 - A poster presentation was given on results
 
 ### Class Project- Chemistry II                             Spring 2019
-Effects of refrigeration and preservative content on bread mold prevalance
+Effects of refrigeration and preservative content on bread mold prevalence
 - Multiple types of bread were kept at room temperature or in 4 degrees for 2 weeks and tracked
 - A poster presentation was given on results
 
