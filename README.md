@@ -19,7 +19,6 @@
 - Protocol development, optimization and execution
 - Reagent preparation, inventory, and purchasing
 - Training incoming lab members on current protocols
- ![Cryostat](/assets/images/)
 
 **Researcher                            Chatham University                 (_Aug 2021 - Aug 2023_)**
 - Culturing of SH-SY5Y neuroblastoma cells for cytoxicity testing, Western blotting and ELISA
