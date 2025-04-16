@@ -10,7 +10,7 @@
 
 
 ## Education
-<table style="margin: 0 auto; border-collapse: collapse; margin-bottom: 2em; width:100%;">
+<table style="margin: 0 auto; border:none; border-collapse: collapse; margin-bottom: 2em; width:100%;">
   <tr>
     <td style="padding: 4px 16px;"><strong>MS Biology</strong></td>
     <td style="padding: 4px 16px;white-space:nowrap;">Chatham University</td>
