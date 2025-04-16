@@ -50,6 +50,7 @@
 
 
 **Graduate Teaching Assistant |   Chatham University | (_Aug 2021 - May 2022_)**
+
 Spring 2022 |  BIOL144L- The Organism Lab
 - Instructed students on phylogenetic trees, plant morphology, slide preparation, microscopy techniques, bacteriophage isolation, and fetal pig dissection
 - Set up practical exams, graded assignments and exams, and entered grades in BrightSpace grading system
