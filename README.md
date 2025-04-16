@@ -1,77 +1,85 @@
 # Research Scientist
 
-#### Laboratory Skills: Optics, Electronics, Microscopy, Basic Chemistry
+#### Laboratory Skills: Cell culture, human and mouse sample collection and handling, RNA and DNA extraction, EV isolation, RNA library preperation, Bulk Sequencing, Western Blotting, ELISA, Chemical Inventory
 
-#### Computer Skills: Python, SQL, Java, PHP, Javascript, HTML/CSS, Linux, Cybersecurity...
+#### Computer Skills: R, Python, HTML, CSS, GraphPad Prism, ImageJ, Microsoft Office, LibreOffice (Linux, Windows, Mac)
 
-#### Related Technical Skills/Hobbies: 3D Printing & Custom 3D Printer Design, Game Development in Unity, Artificial Intelligence / Machine Learning using TensorFlow...
-
-#### Other Skills: Startup Development & Company Formation, Financial Literacy & Business Strategy, General Knowledge of Law / Contracts / Team Management
+#### Other Skills: Sales, Customer Service, Money Handling, Training and Teaching
 
 ## Education
-- BSc, Physics| University of Pittsburgh (_2027_)								       		
-- BSE, Engineering Physics| University of Pittsburgh (_2027_)	 			        		
+- MS Biology Chatham University Pittsburgh PA Aug 2023 		       		
+- BS Biology: Molecular Biotechnology Mount Aloysius College Cresson PA June 2021 	        		
 
 ## Work Experience
-**Physics Researcher @ DuttLab (_2023 - Present_)**
-- Deployed and maintained a self-hosted instance of **OpenProject** for the laboratory, creating a centralized platform for documentation, onboarding, and project management.
-- Designed a neural sensing experiment using **magnetometry in nitrogen-vacancy (NV) centers in diamond** to image **neuromuscular junctions (NMJs)** in motor neurons, supporting research into **Parkinsonism**, **muscular dystrophy**, and related neurodegenerative diseases.
-- Created and implemented **Python** interfaces to automate laboratory experiments and developed controllers for laboratory instruments.
-- Updated all computers in the laboratory to modern hardware
-- Managed day-to-day lab operations and coordinated team workflows
+**Research Laboratory Technician University of Pittsburgh (_June 2023 - Present_)**
+- RNA isolation from various human and mouse tissues, EV isolation from various tissue types, ncRNA and mRNA library generation, sequencing on Illumina platforms
+- Data analysis in R and terminal (Linux, Windows and Mac)
+- Image generation with GraphPad Prism, literture search, and manuscript preparation
+- Genotyping of mice, Western blotting, PCR, and animal husbandry
+- Protocol development, optimization and execution
+- Reagent preparation, inventory, and purchasing
+- Training incoming lab members on current protocols
  ![Cryostat](/assets/images/cryostat.jpg)
 
+**Researcher Chatham University (_Aug 2021 - Aug 2023_)**
+- Culturing of SH-SY5Y neuroblastoma cells for cytoxicity testing, Western blotting and ELISA
+- Data analysis with ImageJ, figure preparation, literature search, and manuscript preparation
+- PowerPoint and poster presentations given on results
+- Training incoming undergraduate students that joined the lab
 
-**Developer @ Levylab (_2022 - 2023_)**
-- Collaborated in the design and development of a **microsoldering station** optimized for preparing experimental samples.
-- Built real-time data interfaces using a **PostgreSQL** backend on **AWS** and **Grafana** front-end, enabling continuous experiment monitoring and visual feedback via a display wall 
-![OXIDE-HETEROSTRUCTURE AFM](/assets/images/c-AFM.png)
+**Genetics Tutor Chatham University (_Sept 2022 - Dec 2022_)**
+- Held individual and small group meetings to review study material for students
 
-**Salesman @ Staples (_2022 - 2022_)**
-- Provided customer-facing **sales support** with a focus on printers and office electronics, ensuring a positive and helpful in-store experience.
-- Excelled in building rapport with customers, contributing to recurring visits, upsells, and increased sign-ups for service subscriptions and rewards programs
-- Recognized for delivering consistent **customer satisfaction** and actively contributing to team sales goals during a **short-term** but high-impact role.
+**Sales Representative Staples Pittsburgh PA (_June 2022 - Oct 2022_)**
+-Sold printers, computers, office chairs and supplies
+-General stock rotation and inventory
 
-**Lab Technician @ Westmoreland Mechanical Testing and Research (_2020 - 2022_)**
-- Worked in a materials analysis laboratory specializing in **electron microscopy** and **surface characterization** of **specialty metals** 
-- Routinely prepared samples for analysis and performed standardized testing on material properties
-- Supported testing for a global client base including **defense**, **aerospace**, and **automotive** manufacturers
-![WMTR](/assets/images/wmtr.jpg)
+**Graduate Teaching Assistant Chatham University (_Aug 2021 - May 2022_)**
+Spring 2022- BIOL144L The Organism Lab
+- Instructed students on phylogenetic trees, plant morphology, slide preparation, microscopy techniques, bacteriophage isolation, and fetal pig dissection
+- Set up practical exams, graded assignments and exams, and entered grades in BrightSpace grading system
 
-**Stage Manager @ Apple Hill Playhouse (_2018-2019_)**
-- Coordinated **all aspects of stage production** for **three full theatrical shows** during the entire summer season, collaborating closely with directors, actors, and fellow stage managers.
-- Led and coordinated **teams of over 20 people** 
-- Contributed to **set construction**, **lighting** and **sound design**, **prop creation**, **auditions**, and **blocking**, ensuring smooth rehearsals and live performances.
-- Played a hands-on role in building large stage structures and sets under the mentorship of a veteran theatrical director with decades of national experience.
-- Gained invaluable team-building experience and developed strong communication, creative problem-solving, and organizational skills - while making unforgettable memories
+Fall 2021- BIOL135 Applied Human Biology
+- Graded assignments and exams, entered grades into BrightSpace
+- Held meetings and study sessions before exams
 
-![Apple Hill Playhouse](/assets/images/apple_hill.jpg)
-![Apple Hill Playhouse 2](/assets/images/apple_hill2.jpg)
+**Crew Member & Crew Trainer McDonald's Punxsutawney PA (_June 2018 - Aug 2021_)**
+-Customer service, money handling, food preparation, inventory, and cleaning
+-Trained incoming crew members on their assigned position tasks
 
-**Co-Founder/Vice President @ NewArk Industries LLC. (_2016-2018_)**
-- Co-founded a startup at age 15 with a team of five developers, focusing on web-based platforms including **encrypted messaging systems**, **tech forums**, and **social media applications**.
-- Developed full-stack web applications using **MySQL**, **Apache NetServer**, **PHP/SQL**, **JavaScript**, and **HTML/CSS**, gaining hands-on experience in both frontend and backend systems.
-- Gained foundational experience in **business operations**, **team leadership**, and **technical project management**, laying the groundwork for future entrepreneurial ventures.
+**Support Center Aide Mount Aloysius College (_May 2020 - May 2021_)**
+-Printed and copied documents for faculty and staff, prepared brochures, sorted incoming mail, answered switchboard, and records destruction
 
-**Chef @ Pizza Siena (_2015-2016_)**
-- Began working at age 14 in a local pizza shop, gaining early hands-on experience in a fast-paced kitchen environment.
-- Responsible for daily prep including **cheese grating**, **sauce-making**, **box folding**, and crafting **pizza dough from scratch**
-- Handled customer orders, maintained kitchen cleanliness, and prepared food
-- Saved earnings from this job to fund and file for an LLC, marking **the start of my early entrepreneurial path**
-![WMTR](/assets/images/pizza_siena.jpg)
+**Day Care Aide Mount Aloysius College Little People's Place (_May 2018 - May 2020_)**
+-Instructing 2-5 year-old children with age-appropriate lessons and supervision during outdoor play activities
+
 
 ## College Projects
-### Engineering Analysis
-#### Prototyping and Creating Enviornmental Awareness
-Collaborated with a team of three engineering students to promote environmental awareness and renewable energy on campus.
-- Designed and built a series of three **low-fidelity prototypes** utilizing foam board and digital methods to present to students
-- Conducted user interviews and feedback sessions to **evaluate design effectiveness** and gather suggestions for improvement
-- Delivered multiple **presentations** to students and faculty, focusing on **design** and **creation of value**
+### Independent Research Spring 2021
+Detection of Clostridium botulinum from home-canned food
+-Prepartion of CBI agar plates with egg emulsion, anaerobic growth conditions, Gram and endospore staining, and microscopy
+-A poster presentation was given during Research Day 
 
-#### Making a Prototype Backpack
-Worked with the same engineering analysis team to identify needs and preferences for student backpacks on campus
-- Conducted interviews to gather user input on desirable features such as compartments and materials.
-- Designed digital and foam board prototypes of a backpack based on feedback
-- Presented findings and prototypes to peers for further refinement and validation
+### Independent Research Fall 2020
+Bacteriophage isolation from soil and water samples
+-Top agar plating technique with S. aureus innoculation
+-A poster presentaion was given during Research Day
 
-  ![CAD Image Backpack](/assets/images/1000008045.jpg) 
+### Class Project- Advanced Laboratory Techniques Fall 2020
+Detection of Borrelia burgdorferi DNA from deer ticks to determine Lyme's disease risk
+-Tick collection, DNA extraction and PCR amplification
+
+### Class Project- Biology III Fall 2018
+Effects of alcohol-based mouthwash on the mouth microbiome
+-Plated saliva samples from participants to study effects of alcohol-based mouthwash, non-alcohol-baseed mouthwash or no mouthwash
+-A poster presentation was given on results
+
+### Class Project- Chemistry II Spring 2019
+Effects of refridgeration and preservative content on bread mold prevalance
+-Multiple types of bread were kept at room temperature or in 4 degrees for 2 weeks and tracked
+-A poster presentation was given on results
+
+## Recognitions
+Outstanding Student Achievement Award Chatham Univerity April 2022
+
+Admiral Peary Reserach Award Mount Aloysius College May 2021
