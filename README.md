@@ -2,6 +2,9 @@
   td{
     border:none;
   }
+  h1,h2{
+    border-bottom:1px solid white;
+  }
 </style>
 # Research Scientist
 
