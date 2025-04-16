@@ -10,13 +10,13 @@
 ## Education
 <table style="margin: 0 auto; border-collapse: collapse; margin-bottom: 2em; width:80%;">
   <tr>
-    <td style="padding: 4px 16px;">&raquo; <strong>MS Biology</strong></td>
+    <td style="padding: 4px 16px;"> <strong>MS Biology</strong></td>
     <td style="padding: 4px 16px;">Chatham University</td>
     <td style="padding: 4px 16px;">Pittsburgh, PA</td>
     <td style="padding: 4px 16px; white-space: nowrap;">Aug 2023</td>
   </tr>
   <tr>
-    <td style="padding: 4px 16px;">&raquo; <strong>BS Biology: Molecular Biotechnology</strong></td>
+    <td style="padding: 4px 16px;"> <strong>BS Biology: Molecular Biotechnology</strong></td>
     <td style="padding: 4px 16px;">Mount Aloysius College</td>
     <td style="padding: 4px 16px;">Cresson, PA</td>
     <td style="padding: 4px 16px; white-space: nowrap;">June 2021</td>
