@@ -71,17 +71,17 @@ Fall 2021-     BIOL135  Applied Human Biology
 
 ## College Projects
 ### Independent Research                                    Spring 2021
-Detection of Clostridium botulinum from home-canned food
+Detection of <i Clostridium botulinum> from home-canned food
 - Prepartion of CBI agar plates with egg emulsion, anaerobic growth conditions, Gram and endospore staining, and microscopy
 - A poster presentation was given during Research Day 
 
 ### Independent Research                                     Fall 2020
 Bacteriophage isolation from soil and water samples
-- Top agar plating technique with S. aureus innoculation
+- Top agar plating technique with <i S. aureus>  innoculation
 - A poster presentaion was given during Research Day
 
 ### Class Project- Advanced Laboratory Techniques            Fall 2020
-Detection of Borrelia burgdorferi DNA from deer ticks to determine Lyme's disease risk
+Detection of <i Borrelia burgdorferi> DNA from deer ticks to determine Lyme's disease risk
 - Tick collection, DNA extraction and PCR amplification
 
 ### Class Project- Biology III                               Fall 2018
@@ -90,7 +90,7 @@ Effects of alcohol-based mouthwash on the mouth microbiome
 - A poster presentation was given on results
 
 ### Class Project- Chemistry II                             Spring 2019
-Effects of refridgeration and preservative content on bread mold prevalance
+Effects of refrigeration and preservative content on bread mold prevalance
 - Multiple types of bread were kept at room temperature or in 4 degrees for 2 weeks and tracked
 - A poster presentation was given on results
 
