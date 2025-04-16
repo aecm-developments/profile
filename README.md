@@ -99,12 +99,12 @@ Effects of refridgeration and preservative content on bread mold prevalance
 <table style="margin: 0 auto; border-collapse: collapse; margin-bottom: 2em; width:80%;">
   <tr>
     <td style="padding: 4px 16px;"> <strong>Outstanding Student Achievement Award</strong></td>
-    <td style="padding: 4px 16px;">Chatham University</td>
+    <td style="padding: 4px 16px;white-space:nowrap;">Chatham University</td>
     <td style="padding: 4px 16px; white-space: nowrap;">April 2022</td>
   </tr>
   <tr>
     <td style="padding: 4px 16px;"> <strong>Admiral Peary Research Award</strong></td>
-    <td style="padding: 4px 16px;">Mount Aloysius College</td>
+    <td style="padding: 4px 16px;white-space:nowrap;">Mount Aloysius College</td>
     <td style="padding: 4px 16px; white-space: nowrap;">May 2021</td>
   </tr>
 </table>
